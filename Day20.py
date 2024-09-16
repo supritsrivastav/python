@@ -21,6 +21,8 @@ else:
         print("Second number is greater or equal") 
 
         
-        
+     # *args is a function stores all the other variables other than first variable in it as a tuple 
+# **kwargs used to store the key values in it i.e Dictionaries 
+# Format :- def function name{a,*args,**kwargs}  
         
          
